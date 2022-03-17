@@ -2,12 +2,12 @@
 apt install figlet
 clear
 figlet -f smslant BIN -c
-figlet -f smslant ReSuci+aTe -c  
+figlet -f smslant TeyBin -c  
 figlet -f term Doble Extrapolacion -c 
-figlet -f term by. Angel [Vip] -c    
+figlet -f term by. TeyEzz -c    
 figlet -f term ____________________________________ -c 
 echo ""
-figlet -f term telegram http://t.me/ZonaPremim -c 
+figlet -f term telegram @TeyEzz -c 
 figlet -f term ____________________________________ -c
 echo ""    
 echo "[#] Primer extrapolacion, escriba los 4 ultimos digitos de una cc real"
@@ -50,21 +50,6 @@ echo ""
 figlet -f term Tu nuevo bin tiene como ip la misma, no cambia -c
 figlet -f term El codigo postal o direccion no cambian -c
 echo ""
-figlet -f term 1. Enciende tu vpn con el ip del bin, y ve hacer -c
-figlet -f term una suscripcion a Deezer con el nuevo bin  -c
 echo ""
-figlet -f term 2. Al hacer tu suscripciona Deezer te llevara -c
-figlet -f term a una pagina y te dira que indiques tu pais, -c
-figlet -f term te mostrara otro pais ese se usara para -c
-figlet -f term pagos de otras paginas como Spotify Netflix -c
-figlet -f term o cualquier otra pagina -c
-echo ""
-figlet -f term 3. Guardaras el ip que te dio Deezer y lo usaras -c
-figlet -f term para pagos de otras paginas, probar con las dos ip -c
-echo ""
-figlet -f term Listo ahora tienes un nuevo bin con lives -c
-figlet -f term sin usar checker, tambien puede -c
-figlet -f term convertirse en multi bin -c
-echo ""
-figlet -f term creditos @Siguem3 -c
+figlet -f term creditos @TeyEzz -c
 echo ""
