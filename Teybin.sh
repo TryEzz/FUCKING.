@@ -53,3 +53,9 @@ echo ""
 echo ""
 figlet -f term creditos @TeyEzz -c
 echo ""
+
+
+
+figlet -f smslant chupenme el pene -c  
+figlet -f smslant chupenme el pene -c  
+
