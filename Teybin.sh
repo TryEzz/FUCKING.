@@ -42,7 +42,7 @@ P=$((R1 + R2))
 echo ""
 figlet -f term =============== extrapolacion sofia num. 2 ===============  -c
 echo ""
-echo "[#] nuevo Bin" $a1$P"xxxxxx"
+echo "[#] nuevo Bin" $a1$P"xxxxx"
 echo "[#] nuevo Bin" $a2$P"xxxxxx"
 echo ""
 figlet -f smslant [#] Nota 
