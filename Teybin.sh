@@ -26,12 +26,12 @@ echo "[#] Nota. copie las dos tarjetas extrapoladas y genere una tarjeta de cada
 echo ""
 read -p "(>_) tarjeta generada N° 1 /> " TGX1
 read -p "(>_) tarjeta generada N° 2 /> " TGX2
-a1=${TGX1:0:10} 
-b1=${TGX1:10:1}
+a1=${TGX1:0:8} 
+b1=${TGX1:9:1}
 c1=${TGX1:10:1}
 M1=$((b1 + c1))
-a2=${TGX2:0:10} 
-b2=${TGX2:10:1}
+a2=${TGX2:0:8} 
+b2=${TGX2:9:1}
 c2=${TGX2:10:1}
 M2=$((b2 + c2))
 let N1=$M1/2
